@@ -1,0 +1,126 @@
+/*
+ * Isotope scheme
+ * by Jan T. Sott
+ *
+ * GTK 3.0 template 
+ * by Jonn Mostovoy - https://github.com/manpages
+ *
+ * Generated
+ * by base16-builder - https://github.com/base16-builder/base16-builder
+ */
+
+@define-color theme_base_color #000000;
+@define-color theme_fg_color #c0c0c0;
+@define-color theme_active_color #606060;
+@define-color theme_insensitive_color #c0c0c0;
+@define-color theme_insensitive_bg #000000;
+
+@define-color theme_cursor_color #0066ff;
+
+/* fallback mode */
+@define-color os_chrome_bg_color #000000;
+@define-color os_chrome_fg_color #c0c0c0;
+@define-color os_chrome_selected_bg_color #e0e0e0;
+@define-color os_chrome_selected_fg_color #606060;
+
+* {
+    /* Pidgin */
+    -GtkIMHtml-hyperlink-color: #0066ff;
+    -GtkIMHtml-hyperlink-visited-color: #cc00ff;
+    -GtkIMHtml-hyperlink-prelight-color: #ffffff;
+
+    /* Evolution */
+    -GtkHTML-link-color: #0066ff;
+    -GtkHTML-vlink-color: #cc00ff;
+    -GtkHTML-cite-color: #33ff00;
+
+    -GtkWidget-link-color: #0066ff;
+    -GtkWidget-visited-link-color: #cc00ff;
+}
+
+@import url("resource:///org/gnome/HighContrastInverse/a11y.css");
+
+/*
+ * Isotope scheme
+ * by Jan T. Sott
+ *
+ * GTK 3.0 template 
+ * by Jonn Mostovoy - https://github.com/manpages
+ *
+ * Generated
+ * by base16-builder - https://github.com/base16-builder/base16-builder
+ */
+
+@define-color theme_base_color #000000;
+@define-color theme_fg_color #c0c0c0;
+@define-color theme_active_color #606060;
+@define-color theme_insensitive_color #c0c0c0;
+@define-color theme_insensitive_bg #000000;
+
+@define-color theme_cursor_color #0066ff;
+
+/* fallback mode */
+@define-color os_chrome_bg_color #000000;
+@define-color os_chrome_fg_color #c0c0c0;
+@define-color os_chrome_selected_bg_color #e0e0e0;
+@define-color os_chrome_selected_fg_color #606060;
+
+* {
+    /* Pidgin */
+    -GtkIMHtml-hyperlink-color: #0066ff;
+    -GtkIMHtml-hyperlink-visited-color: #cc00ff;
+    -GtkIMHtml-hyperlink-prelight-color: #ffffff;
+
+    /* Evolution */
+    -GtkHTML-link-color: #0066ff;
+    -GtkHTML-vlink-color: #cc00ff;
+    -GtkHTML-cite-color: #33ff00;
+
+    -GtkWidget-link-color: #0066ff;
+    -GtkWidget-visited-link-color: #cc00ff;
+}
+
+@import url("resource:///org/gnome/HighContrastInverse/a11y.css");
+
+/*
+ * Isotope scheme
+ * by Jan T. Sott
+ *
+ * GTK 3.0 template 
+ * by Jonn Mostovoy - https://github.com/manpages
+ *
+ * Generated
+ * by base16-builder - https://github.com/base16-builder/base16-builder
+ */
+
+@define-color theme_base_color #000000;
+@define-color theme_fg_color #c0c0c0;
+@define-color theme_active_color #606060;
+@define-color theme_insensitive_color #c0c0c0;
+@define-color theme_insensitive_bg #000000;
+
+@define-color theme_cursor_color #0066ff;
+
+/* fallback mode */
+@define-color os_chrome_bg_color #000000;
+@define-color os_chrome_fg_color #c0c0c0;
+@define-color os_chrome_selected_bg_color #e0e0e0;
+@define-color os_chrome_selected_fg_color #606060;
+
+* {
+    /* Pidgin */
+    -GtkIMHtml-hyperlink-color: #0066ff;
+    -GtkIMHtml-hyperlink-visited-color: #cc00ff;
+    -GtkIMHtml-hyperlink-prelight-color: #ffffff;
+
+    /* Evolution */
+    -GtkHTML-link-color: #0066ff;
+    -GtkHTML-vlink-color: #cc00ff;
+    -GtkHTML-cite-color: #33ff00;
+
+    -GtkWidget-link-color: #0066ff;
+    -GtkWidget-visited-link-color: #cc00ff;
+}
+
+@import url("resource:///org/gnome/HighContrastInverse/a11y.css");
+

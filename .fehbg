@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/trunghieu/.wallpapers/1170820.jpg' 

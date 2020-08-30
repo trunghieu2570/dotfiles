@@ -1,0 +1,48 @@
+[2020-08-29 13:51:24.636] [sharedprocess] [info] main {"machineId":"0c0205efc99ad0338b4988a62459b750918e8ed1b877f9569e2495f2ced9e522","windowId":2}
+[2020-08-29 13:52:04.652] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-29 13:53:56.328] [sharedprocess] [info] Installing extension: akamud.vscode-theme-onedark
+[2020-08-29 13:53:57.433] [sharedprocess] [info] Downloaded extension: akamud.vscode-theme-onedark /home/trunghieu/.config/Code - OSS/CachedExtensionVSIXs/akamud.vscode-theme-onedark-2.2.2
+[2020-08-29 13:53:57.477] [sharedprocess] [info] Extracted extension to /home/trunghieu/.vscode-oss/extensions/.akamud.vscode-theme-onedark-2.2.2: akamud.vscode-theme-onedark
+[2020-08-29 13:53:57.478] [sharedprocess] [info] Renamed to /home/trunghieu/.vscode-oss/extensions/akamud.vscode-theme-onedark-2.2.2
+[2020-08-29 13:53:57.478] [sharedprocess] [info] Installation completed. akamud.vscode-theme-onedark
+[2020-08-29 13:53:57.875] [sharedprocess] [info] Extensions installed successfully: akamud.vscode-theme-onedark
+[2020-08-29 13:54:30.567] [sharedprocess] [info] Installing extension: 74th.monokai-charcoal-high-contrast
+[2020-08-29 13:54:31.802] [sharedprocess] [info] Downloaded extension: 74th.monokai-charcoal-high-contrast /home/trunghieu/.config/Code - OSS/CachedExtensionVSIXs/74th.monokai-charcoal-high-contrast-3.1.0
+[2020-08-29 13:54:32.294] [sharedprocess] [info] Extracted extension to /home/trunghieu/.vscode-oss/extensions/.74th.monokai-charcoal-high-contrast-3.1.0: 74th.monokai-charcoal-high-contrast
+[2020-08-29 13:54:32.294] [sharedprocess] [info] Renamed to /home/trunghieu/.vscode-oss/extensions/74th.monokai-charcoal-high-contrast-3.1.0
+[2020-08-29 13:54:32.296] [sharedprocess] [info] Installation completed. 74th.monokai-charcoal-high-contrast
+[2020-08-29 13:54:32.660] [sharedprocess] [info] Extensions installed successfully: 74th.monokai-charcoal-high-contrast
+[2020-08-29 13:55:11.788] [sharedprocess] [info] Installing extension: gerane.theme-monokai-contrast
+[2020-08-29 13:55:12.293] [sharedprocess] [info] Downloaded extension: gerane.theme-monokai-contrast /home/trunghieu/.config/Code - OSS/CachedExtensionVSIXs/gerane.theme-monokai-contrast-0.0.5
+[2020-08-29 13:55:12.319] [sharedprocess] [info] Extracted extension to /home/trunghieu/.vscode-oss/extensions/.gerane.theme-monokai-contrast-0.0.5: gerane.theme-monokai-contrast
+[2020-08-29 13:55:12.319] [sharedprocess] [info] Renamed to /home/trunghieu/.vscode-oss/extensions/gerane.theme-monokai-contrast-0.0.5
+[2020-08-29 13:55:12.321] [sharedprocess] [info] Installation completed. gerane.theme-monokai-contrast
+[2020-08-29 13:55:12.361] [sharedprocess] [info] Extensions installed successfully: gerane.theme-monokai-contrast
+[2020-08-29 13:58:25.581] [sharedprocess] [info] Installing extension: johndugan.contrast-theme
+[2020-08-29 13:58:26.254] [sharedprocess] [info] Downloaded extension: johndugan.contrast-theme /home/trunghieu/.config/Code - OSS/CachedExtensionVSIXs/johndugan.contrast-theme-1.1.8
+[2020-08-29 13:58:26.359] [sharedprocess] [info] Extracted extension to /home/trunghieu/.vscode-oss/extensions/.johndugan.contrast-theme-1.1.8: johndugan.contrast-theme
+[2020-08-29 13:58:26.360] [sharedprocess] [info] Renamed to /home/trunghieu/.vscode-oss/extensions/johndugan.contrast-theme-1.1.8
+[2020-08-29 13:58:26.362] [sharedprocess] [info] Installation completed. johndugan.contrast-theme
+[2020-08-29 13:58:26.398] [sharedprocess] [info] Extensions installed successfully: johndugan.contrast-theme
+[2020-08-29 13:58:53.805] [sharedprocess] [info] Uninstalling extension: gerane.theme-monokai-contrast
+[2020-08-29 13:58:53.934] [sharedprocess] [info] Successfully uninstalled extension: gerane.theme-monokai-contrast
+[2020-08-29 13:59:04.111] [sharedprocess] [info] Installing extension: kamen.noctis-high-contrast
+[2020-08-29 13:59:05.012] [sharedprocess] [info] Downloaded extension: kamen.noctis-high-contrast /home/trunghieu/.config/Code - OSS/CachedExtensionVSIXs/kamen.noctis-high-contrast-10.23.0
+[2020-08-29 13:59:05.129] [sharedprocess] [info] Extracted extension to /home/trunghieu/.vscode-oss/extensions/.kamen.noctis-high-contrast-10.23.0: kamen.noctis-high-contrast
+[2020-08-29 13:59:05.129] [sharedprocess] [info] Renamed to /home/trunghieu/.vscode-oss/extensions/kamen.noctis-high-contrast-10.23.0
+[2020-08-29 13:59:05.130] [sharedprocess] [info] Installation completed. kamen.noctis-high-contrast
+[2020-08-29 13:59:05.167] [sharedprocess] [info] Extensions installed successfully: kamen.noctis-high-contrast
+[2020-08-29 14:01:49.638] [sharedprocess] [info] Installing extension: algor.monokaiplus
+[2020-08-29 14:01:50.761] [sharedprocess] [info] Downloaded extension: algor.monokaiplus /home/trunghieu/.config/Code - OSS/CachedExtensionVSIXs/algor.monokaiplus-1.1.0
+[2020-08-29 14:01:50.991] [sharedprocess] [info] Extracted extension to /home/trunghieu/.vscode-oss/extensions/.algor.monokaiplus-1.1.0: algor.monokaiplus
+[2020-08-29 14:01:50.991] [sharedprocess] [info] Renamed to /home/trunghieu/.vscode-oss/extensions/algor.monokaiplus-1.1.0
+[2020-08-29 14:01:50.994] [sharedprocess] [info] Installation completed. algor.monokaiplus
+[2020-08-29 14:01:51.039] [sharedprocess] [info] Extensions installed successfully: algor.monokaiplus
+[2020-08-29 14:04:13.184] [sharedprocess] [info] Uninstalling extension: andrsdc.base16-themes
+[2020-08-29 14:04:13.262] [sharedprocess] [info] Successfully uninstalled extension: andrsdc.base16-themes
+[2020-08-29 14:04:18.809] [sharedprocess] [info] Uninstalling extension: johndugan.contrast-theme
+[2020-08-29 14:04:18.898] [sharedprocess] [info] Successfully uninstalled extension: johndugan.contrast-theme
+[2020-08-29 14:04:23.602] [sharedprocess] [info] Uninstalling extension: algor.monokaiplus
+[2020-08-29 14:04:23.833] [sharedprocess] [info] Successfully uninstalled extension: algor.monokaiplus
+[2020-08-29 14:04:25.892] [sharedprocess] [info] Uninstalling extension: kamen.noctis-high-contrast
+[2020-08-29 14:04:26.123] [sharedprocess] [info] Successfully uninstalled extension: kamen.noctis-high-contrast

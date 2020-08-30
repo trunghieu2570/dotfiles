@@ -1,0 +1,9 @@
+[2020-08-29 13:26:37.742] [sharedprocess] [info] main {"machineId":"0c0205efc99ad0338b4988a62459b750918e8ed1b877f9569e2495f2ced9e522","windowId":2}
+[2020-08-29 13:26:37.917] [sharedprocess] [info] Deleted from disk zhuangtongfa.material-theme /home/trunghieu/.vscode-oss/extensions/zhuangtongfa.material-theme-3.8.5
+[2020-08-29 13:27:05.270] [sharedprocess] [info] Installing extension: andrsdc.base16-themes
+[2020-08-29 13:27:06.081] [sharedprocess] [info] Downloaded extension: andrsdc.base16-themes /home/trunghieu/.config/Code - OSS/CachedExtensionVSIXs/andrsdc.base16-themes-1.4.5
+[2020-08-29 13:27:06.381] [sharedprocess] [info] Extracted extension to /home/trunghieu/.vscode-oss/extensions/.andrsdc.base16-themes-1.4.5: andrsdc.base16-themes
+[2020-08-29 13:27:06.382] [sharedprocess] [info] Renamed to /home/trunghieu/.vscode-oss/extensions/andrsdc.base16-themes-1.4.5
+[2020-08-29 13:27:06.383] [sharedprocess] [info] Installation completed. andrsdc.base16-themes
+[2020-08-29 13:27:07.363] [sharedprocess] [info] Extensions installed successfully: andrsdc.base16-themes
+[2020-08-29 13:27:17.764] [sharedprocess] [info] Starting to clean up unused language packs.

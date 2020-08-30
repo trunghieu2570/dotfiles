@@ -1,0 +1,71 @@
+Looking for git in: git
+Using git 2.28.0 from git
+> git rev-parse --git-dir
+Open repository: /home/trunghieu/Projects/portfolio-frontend
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/trunghieu/Projects/portfolio-frontend/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :gatsby-browser.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/gatsby-browser.js
+> git cat-file -s b1e5c316b7f94cd10f0c48a4d3d5567789299b03
+> git show --textconv :gatsby-config.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/gatsby-config.js
+> git cat-file -s 72c4d536a1a043869204810a014edd7e494d155a
+> git show --textconv :gatsby-ssr.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/gatsby-ssr.js
+> git cat-file -s b17b8fc19d65986509ea9b6c250629d38e2a0c1f
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/pages/index.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/src/pages/index.js
+> git cat-file -s df9822359d8b55f6cf0124a5d49c2242f5ca0887
+> git show --textconv :src/pages/index.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/src/pages/index.js
+> git cat-file -s df9822359d8b55f6cf0124a5d49c2242f5ca0887
+> git show --textconv :src/pages/index.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/src/pages/index.js
+> git cat-file -s df9822359d8b55f6cf0124a5d49c2242f5ca0887
+> git show --textconv :gatsby-ssr.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/gatsby-ssr.js
+> git cat-file -s b17b8fc19d65986509ea9b6c250629d38e2a0c1f
+> git show --textconv :gatsby-config.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/gatsby-config.js
+> git cat-file -s 72c4d536a1a043869204810a014edd7e494d155a
+> git show --textconv :src/pages/index.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/src/pages/index.js
+> git cat-file -s df9822359d8b55f6cf0124a5d49c2242f5ca0887
+> git show --textconv :src/pages/index.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/src/pages/index.js
+> git cat-file -s df9822359d8b55f6cf0124a5d49c2242f5ca0887
+> git show --textconv :gatsby-ssr.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/gatsby-ssr.js
+> git cat-file -s b17b8fc19d65986509ea9b6c250629d38e2a0c1f
+> git show --textconv :gatsby-browser.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/gatsby-browser.js
+> git cat-file -s b1e5c316b7f94cd10f0c48a4d3d5567789299b03
+> git show --textconv :gatsby-config.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/gatsby-config.js
+> git cat-file -s 72c4d536a1a043869204810a014edd7e494d155a
+> git show --textconv :src/pages/index.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/src/pages/index.js
+> git cat-file -s df9822359d8b55f6cf0124a5d49c2242f5ca0887
+> git show --textconv :src/pages/index.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/src/pages/index.js
+> git cat-file -s df9822359d8b55f6cf0124a5d49c2242f5ca0887
+> git show --textconv :src/pages/index.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/src/pages/index.js
+> git cat-file -s df9822359d8b55f6cf0124a5d49c2242f5ca0887
+> git show --textconv :src/pages/index.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/src/pages/index.js
+> git cat-file -s df9822359d8b55f6cf0124a5d49c2242f5ca0887
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/trunghieu/Projects/portfolio-frontend/src/pages/index.js
+> git show --textconv :src/pages/page-2.js
+> git ls-files --stage -- /home/trunghieu/Projects/portfolio-frontend/src/pages/page-2.js
+> git cat-file -s 666c23ef30f9dee05b648d602f578ee46ef01ee5

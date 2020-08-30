@@ -1,0 +1,4 @@
+[Added Associations]
+application/x-shellscript=mousepad.desktop;vim.desktop;
+text/plain=mousepad.desktop;code-oss.desktop;
+image/jpeg=nitrogen.desktop;

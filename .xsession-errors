@@ -1,0 +1,454 @@
+xrdb:  "Xft.hinting" on line 10 overrides entry on line 5
+xrdb:  "Xft.hintstyle" on line 11 overrides entry on line 6
+
+(xfce4-session:721): Gtk-WARNING **: 14:37:14.191: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-session:721): Gtk-WARNING **: 14:37:14.191: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-session:721): Gtk-WARNING **: 14:37:14.191: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+gpg-agent[775]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:721): xfce4-session-WARNING **: 14:37:14.510: gpg-agent returned no PID in the variables
+
+(xfwm4:778): Gtk-WARNING **: 14:37:14.671: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfwm4:778): Gtk-WARNING **: 14:37:14.671: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfwm4:778): Gtk-WARNING **: 14:37:14.671: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+xfwm4-Message: 14:37:15.243: Prefer XPresent with Mesa Intel(R) HD Graphics 620 (KBL GT2)
+
+(xfsettingsd:790): Gtk-WARNING **: 14:37:15.378: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:791): Gtk-WARNING **: 14:37:15.378: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:790): Gtk-WARNING **: 14:37:15.379: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:791): Gtk-WARNING **: 14:37:15.379: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:790): Gtk-WARNING **: 14:37:15.379: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:791): Gtk-WARNING **: 14:37:15.379: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:793): Gtk-WARNING **: 14:37:15.386: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:793): Gtk-WARNING **: 14:37:15.386: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:793): Gtk-WARNING **: 14:37:15.386: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:803): Gtk-WARNING **: 14:37:15.443: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:803): Gtk-WARNING **: 14:37:15.443: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:803): Gtk-WARNING **: 14:37:15.443: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:802): Gtk-WARNING **: 14:37:15.446: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:802): Gtk-WARNING **: 14:37:15.446: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:802): Gtk-WARNING **: 14:37:15.446: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:813): Gtk-WARNING **: 14:37:15.497: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:813): Gtk-WARNING **: 14:37:15.497: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:813): Gtk-WARNING **: 14:37:15.497: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:810): Gtk-WARNING **: 14:37:15.523: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:810): Gtk-WARNING **: 14:37:15.523: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:810): Gtk-WARNING **: 14:37:15.523: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:812): Gtk-WARNING **: 14:37:15.529: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:812): Gtk-WARNING **: 14:37:15.529: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:812): Gtk-WARNING **: 14:37:15.529: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:822): Gtk-WARNING **: 14:37:15.646: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:822): Gtk-WARNING **: 14:37:15.650: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:822): Gtk-WARNING **: 14:37:15.650: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:825): Gtk-WARNING **: 14:37:15.691: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:825): Gtk-WARNING **: 14:37:15.692: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:825): Gtk-WARNING **: 14:37:15.692: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:827): Gtk-WARNING **: 14:37:15.706: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:827): Gtk-WARNING **: 14:37:15.706: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:827): Gtk-WARNING **: 14:37:15.706: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-session:721): GLib-WARNING **: 14:37:15.822: GChildWatchSource: Exit status of a child process was requested but ECHILD was received by waitpid(). See the documentation of g_child_watch_source_new() for possible causes.
+
+(xfsettingsd:835): Gtk-WARNING **: 14:37:15.846: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:835): Gtk-WARNING **: 14:37:15.846: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:835): Gtk-WARNING **: 14:37:15.846: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:833): Gtk-WARNING **: 14:37:15.859: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:833): Gtk-WARNING **: 14:37:15.859: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:833): Gtk-WARNING **: 14:37:15.860: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:841): Gtk-WARNING **: 14:37:15.891: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:841): Gtk-WARNING **: 14:37:15.891: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:841): Gtk-WARNING **: 14:37:15.891: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:843): Gtk-WARNING **: 14:37:15.923: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:843): Gtk-WARNING **: 14:37:15.923: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:843): Gtk-WARNING **: 14:37:15.924: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:844): Gtk-WARNING **: 14:37:15.952: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:844): Gtk-WARNING **: 14:37:15.952: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:844): Gtk-WARNING **: 14:37:15.953: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(Thunar:851): Gtk-WARNING **: 14:37:16.201: Theme parsing error: gtk.css:37:27: The style property GtkWidget:link-color is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(Thunar:851): Gtk-WARNING **: 14:37:16.201: Theme parsing error: gtk.css:38:35: The style property GtkWidget:visited-link-color is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(Thunar:851): Gtk-WARNING **: 14:37:16.201: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(Thunar:851): Gtk-WARNING **: 14:37:16.202: Theme parsing error: gtk.css:79:27: The style property GtkWidget:link-color is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(Thunar:851): Gtk-WARNING **: 14:37:16.202: Theme parsing error: gtk.css:80:35: The style property GtkWidget:visited-link-color is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(Thunar:851): Gtk-WARNING **: 14:37:16.202: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(Thunar:851): Gtk-WARNING **: 14:37:16.202: Theme parsing error: gtk.css:121:27: The style property GtkWidget:link-color is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(Thunar:851): Gtk-WARNING **: 14:37:16.202: Theme parsing error: gtk.css:122:35: The style property GtkWidget:visited-link-color is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(Thunar:851): Gtk-WARNING **: 14:37:16.202: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfdesktop:863): Gtk-WARNING **: 14:37:16.387: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfdesktop:863): Gtk-WARNING **: 14:37:16.387: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfdesktop:863): Gtk-WARNING **: 14:37:16.387: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(wrapper-2.0:866): Gtk-WARNING **: 14:37:17.065: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(wrapper-2.0:866): Gtk-WARNING **: 14:37:17.065: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(wrapper-2.0:866): Gtk-WARNING **: 14:37:17.065: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(wrapper-2.0:870): Gtk-WARNING **: 14:37:17.126: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(wrapper-2.0:870): Gtk-WARNING **: 14:37:17.126: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(wrapper-2.0:870): Gtk-WARNING **: 14:37:17.126: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(wrapper-2.0:867): Gtk-WARNING **: 14:37:17.127: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(wrapper-2.0:867): Gtk-WARNING **: 14:37:17.127: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(wrapper-2.0:867): Gtk-WARNING **: 14:37:17.127: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(wrapper-2.0:872): Gtk-WARNING **: 14:37:17.169: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(wrapper-2.0:872): Gtk-WARNING **: 14:37:17.169: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(wrapper-2.0:872): Gtk-WARNING **: 14:37:17.169: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+** (wrapper-2.0:870): WARNING **: 14:37:17.192: No outputs have backlight property
+
+(wrapper-2.0:868): Gtk-WARNING **: 14:37:17.264: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(wrapper-2.0:868): Gtk-WARNING **: 14:37:17.264: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(wrapper-2.0:868): Gtk-WARNING **: 14:37:17.264: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(wrapper-2.0:870): Gtk-WARNING **: 14:37:17.336: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+
+(wrapper-2.0:866): Gtk-WARNING **: 14:37:17.372: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:868): Gtk-WARNING **: 14:37:17.372: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(xfsettingsd:896): Gtk-WARNING **: 14:37:17.507: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:896): Gtk-WARNING **: 14:37:17.507: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfsettingsd:896): Gtk-WARNING **: 14:37:17.507: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(nm-applet:892): Gtk-WARNING **: 14:37:17.540: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(nm-applet:892): Gtk-WARNING **: 14:37:17.540: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(nm-applet:892): Gtk-WARNING **: 14:37:17.541: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(polkit-gnome-authentication-agent-1:893): Gtk-WARNING **: 14:37:17.581: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(polkit-gnome-authentication-agent-1:893): Gtk-WARNING **: 14:37:17.582: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(polkit-gnome-authentication-agent-1:893): Gtk-WARNING **: 14:37:17.582: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-screensaver:902): Gtk-WARNING **: 14:37:17.642: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-screensaver:902): Gtk-WARNING **: 14:37:17.642: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-screensaver:902): Gtk-WARNING **: 14:37:17.642: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+** (xfce4-screensaver:902): WARNING **: 14:37:17.752: screensaver already running in this session
+
+(exo-helper-2:949): Gtk-WARNING **: 14:37:23.968: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:949): Gtk-WARNING **: 14:37:23.968: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:949): Gtk-WARNING **: 14:37:23.968: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:967): Gtk-WARNING **: 14:38:26.999: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:967): Gtk-WARNING **: 14:38:26.999: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:967): Gtk-WARNING **: 14:38:26.999: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:971): Gtk-WARNING **: 14:38:27.078: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:971): Gtk-WARNING **: 14:38:27.078: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:971): Gtk-WARNING **: 14:38:27.078: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(firefox:974): Gtk-WARNING **: 14:38:28.994: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(firefox:974): Gtk-WARNING **: 14:38:28.994: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(firefox:974): Gtk-WARNING **: 14:38:28.994: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1025): Gtk-WARNING **: 14:38:34.353: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1025): Gtk-WARNING **: 14:38:34.354: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1025): Gtk-WARNING **: 14:38:34.354: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1065): Gtk-WARNING **: 14:38:35.781: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1065): Gtk-WARNING **: 14:38:35.781: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1065): Gtk-WARNING **: 14:38:35.782: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1091): Gtk-WARNING **: 14:38:36.289: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1091): Gtk-WARNING **: 14:38:36.289: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1091): Gtk-WARNING **: 14:38:36.289: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1122): Gtk-WARNING **: 14:38:36.590: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1122): Gtk-WARNING **: 14:38:36.590: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1122): Gtk-WARNING **: 14:38:36.590: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1124): Gtk-WARNING **: 14:38:36.636: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1124): Gtk-WARNING **: 14:38:36.636: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1124): Gtk-WARNING **: 14:38:36.636: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1239): Gtk-WARNING **: 14:41:18.816: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1239): Gtk-WARNING **: 14:41:18.824: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1239): Gtk-WARNING **: 14:41:18.825: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:1333): Gtk-WARNING **: 14:44:26.889: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:1333): Gtk-WARNING **: 14:44:26.889: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:1333): Gtk-WARNING **: 14:44:26.889: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1337): Gtk-WARNING **: 14:44:26.958: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1337): Gtk-WARNING **: 14:44:26.958: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1337): Gtk-WARNING **: 14:44:26.958: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1352): Gtk-WARNING **: 14:45:12.874: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1352): Gtk-WARNING **: 14:45:12.874: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1352): Gtk-WARNING **: 14:45:12.874: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1356): Gtk-WARNING **: 14:45:13.430: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1356): Gtk-WARNING **: 14:45:13.430: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1356): Gtk-WARNING **: 14:45:13.430: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1360): Gtk-WARNING **: 14:45:14.026: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1360): Gtk-WARNING **: 14:45:14.027: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1360): Gtk-WARNING **: 14:45:14.027: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1364): Gtk-WARNING **: 14:45:14.281: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1364): Gtk-WARNING **: 14:45:14.281: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1364): Gtk-WARNING **: 14:45:14.281: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1368): Gtk-WARNING **: 14:45:14.681: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1368): Gtk-WARNING **: 14:45:14.681: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1368): Gtk-WARNING **: 14:45:14.681: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-settings-manager:1372): Gtk-WARNING **: 14:45:16.868: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-settings-manager:1372): Gtk-WARNING **: 14:45:16.868: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-settings-manager:1372): Gtk-WARNING **: 14:45:16.869: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-settings-manager:1379): Gtk-WARNING **: 14:45:35.471: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-settings-manager:1379): Gtk-WARNING **: 14:45:35.472: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-settings-manager:1379): Gtk-WARNING **: 14:45:35.472: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+qvidcap: error while loading shared libraries: libQt5Widgets.so.5: cannot open shared object file: No such file or directory
+
+(exo-open:1384): Gtk-WARNING **: 14:46:02.358: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:1384): Gtk-WARNING **: 14:46:02.358: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:1384): Gtk-WARNING **: 14:46:02.358: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1388): Gtk-WARNING **: 14:46:02.433: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1388): Gtk-WARNING **: 14:46:02.433: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1388): Gtk-WARNING **: 14:46:02.433: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1417): Gtk-WARNING **: 14:46:09.918: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1417): Gtk-WARNING **: 14:46:09.919: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1417): Gtk-WARNING **: 14:46:09.919: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1502): Gtk-WARNING **: 14:48:01.659: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1502): Gtk-WARNING **: 14:48:01.659: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1502): Gtk-WARNING **: 14:48:01.659: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1551): Gtk-WARNING **: 14:48:36.944: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1551): Gtk-WARNING **: 14:48:36.944: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1551): Gtk-WARNING **: 14:48:36.944: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1565): Gtk-WARNING **: 14:48:37.091: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1565): Gtk-WARNING **: 14:48:37.091: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(/usr/lib/firefox/firefox:1565): Gtk-WARNING **: 14:48:37.091: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1658): Gtk-WARNING **: 14:49:25.907: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1658): Gtk-WARNING **: 14:49:25.907: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-panel:1658): Gtk-WARNING **: 14:49:25.907: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+xfce4-whiskermenu-plugin: Unable to get keyboard. Menu popup failed.
+
+(exo-open:1780): Gtk-WARNING **: 14:49:54.988: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:1780): Gtk-WARNING **: 14:49:54.988: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:1780): Gtk-WARNING **: 14:49:54.988: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1784): Gtk-WARNING **: 14:49:55.060: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1784): Gtk-WARNING **: 14:49:55.060: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1784): Gtk-WARNING **: 14:49:55.060: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-settings-manager:1813): Gtk-WARNING **: 14:50:02.116: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-settings-manager:1813): Gtk-WARNING **: 14:50:02.116: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-settings-manager:1813): Gtk-WARNING **: 14:50:02.116: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1817): Gtk-WARNING **: 14:50:03.475: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1817): Gtk-WARNING **: 14:50:03.475: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1817): Gtk-WARNING **: 14:50:03.475: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:1820): Gtk-WARNING **: 14:50:11.837: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:1820): Gtk-WARNING **: 14:50:11.837: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:1820): Gtk-WARNING **: 14:50:11.837: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1824): Gtk-WARNING **: 14:50:11.911: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1824): Gtk-WARNING **: 14:50:11.911: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1824): Gtk-WARNING **: 14:50:11.911: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-terminal:1827): Gtk-WARNING **: 14:50:12.396: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-terminal:1827): Gtk-WARNING **: 14:50:12.396: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(xfce4-terminal:1827): Gtk-WARNING **: 14:50:12.396: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:1911): Gtk-WARNING **: 14:51:24.804: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:1911): Gtk-WARNING **: 14:51:24.804: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:1911): Gtk-WARNING **: 14:51:24.804: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1915): Gtk-WARNING **: 14:51:24.879: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1915): Gtk-WARNING **: 14:51:24.880: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1915): Gtk-WARNING **: 14:51:24.880: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(mousepad:1951): Gtk-WARNING **: 14:51:38.528: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(mousepad:1951): Gtk-WARNING **: 14:51:38.528: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(mousepad:1951): Gtk-WARNING **: 14:51:38.528: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:1989): Gtk-WARNING **: 14:54:07.167: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:1989): Gtk-WARNING **: 14:54:07.167: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:1989): Gtk-WARNING **: 14:54:07.167: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1993): Gtk-WARNING **: 14:54:07.242: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1993): Gtk-WARNING **: 14:54:07.242: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:1993): Gtk-WARNING **: 14:54:07.242: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(mousepad:2056): Gtk-WARNING **: 14:54:57.182: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(mousepad:2056): Gtk-WARNING **: 14:54:57.182: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(mousepad:2056): Gtk-WARNING **: 14:54:57.182: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:2073): Gtk-WARNING **: 14:55:14.580: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:2073): Gtk-WARNING **: 14:55:14.580: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-open:2073): Gtk-WARNING **: 14:55:14.580: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:2077): Gtk-WARNING **: 14:55:14.654: Theme parsing error: gtk.css:41:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:2077): Gtk-WARNING **: 14:55:14.655: Theme parsing error: gtk.css:83:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist
+
+(exo-helper-2:2077): Gtk-WARNING **: 14:55:14.655: Theme parsing error: gtk.css:125:66: Failed to import: The resource at “/org/gnome/HighContrastInverse/a11y.css” does not exist

@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "editor.fontFamily": "'Source Code Pro Medium', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "window.titleBarStyle": "custom",
+    "workbench.colorTheme": "monokai-chacoral (gray)"
+}

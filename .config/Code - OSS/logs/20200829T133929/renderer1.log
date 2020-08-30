@@ -1,0 +1,2 @@
+[2020-08-29 13:40:00.647] [renderer1] [error] Unable to resolve non-existing file 'vscode-userdata:/home/trunghieu/.config/Code - OSS/User/Backups/1598534822073/vscode-userdata/3147f9294bcb665b0853b9944dcaec60': Error: Unable to resolve non-existing file 'vscode-userdata:/home/trunghieu/.config/Code - OSS/User/Backups/1598534822073/vscode-userdata/3147f9294bcb665b0853b9944dcaec60'
+    at b.resolve (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1699:765)
